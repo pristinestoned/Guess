@@ -24,5 +24,5 @@ if ($answer >= 6) {
  for ($i=6; $i<=$answer; $i++) {
  #  print "$i\n";
  }
- print "You thought of number: ".($i-6)."\n\n";
+ print "You thought of number: ".($i-5)."\n\n";
 }
