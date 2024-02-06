@@ -1,5 +1,5 @@
 /*
-Copyright Brian Ponnampalam 2020
+Copyright Brian Ponnampalam 2024
 Author is not held responsible for any damages by this script. 
 Feel free to redistribute and modify the script.
 
