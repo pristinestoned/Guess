@@ -1,3 +1,10 @@
+/*
+Copyright Brian Ponnampalam 2020
+Author is not held responsible for any damages by this script. 
+Feel free to redistribute and modify the script.
+
+Author: brian2004[at] hotmail[dot] com
+*/
 #include <stdio.h>
 #include <math.h>
 
